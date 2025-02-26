@@ -22,7 +22,7 @@ export const Navbar = () => {
 
           <div>
             <a
-              href={"https://github.com/sd012gfhkhhvh/Slate.AI"}
+              href={"https://github.com/HiteshShinde-web/HiteshShinde-web-Collaborative-White-Board"}
               className=" no-underline bg-white text-black font-semibold px-2 py-1 flex justify-center items-center gap-2 transition-all border-black border-solid border-[2px] rounded-lg lg:text-xl md:text-lg text-md "
             >
               <img
