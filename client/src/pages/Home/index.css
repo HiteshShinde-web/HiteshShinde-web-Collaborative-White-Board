@@ -1,0 +1,109 @@
+/* Reset default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif; /* A clean modern font */
+}
+
+/* Main Home Section */
+.main-home {
+  background-image: url("../../assets/backgroundImg-2.png");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  filter: brightness(0.7); /* Darken background for better contrast */
+  position: relative;
+}
+
+/* Content Wrapper */
+.home-content {
+  text-align: center;
+  color: white;
+  z-index: 1;
+  max-width: 1200px;
+  padding: 20px;
+  transition: transform 0.3s ease-out;
+}
+
+/* Content box title (h1) */
+.content-box > h1 {
+  font-size: 2.5rem; /* Reduced font size */
+  font-weight: bold;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: #ffffff;
+  letter-spacing: 1px;
+  text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.4);
+  margin-bottom: 15px;
+  transition: all 0.3s ease-in-out;
+}
+
+.content-box > h1:hover {
+  transform: translateY(-5px);
+  color: #3498db;
+}
+
+/* Image Wrapper */
+.img-wrapper {
+  height: 60%; /* Adjusted to fit better */
+  width: 80%; /* Slightly reduced for better fit */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.img-wrapper:hover {
+  transform: scale(1.05); /* Slight zoom effect on hover */
+}
+
+/* Logo */
+.logo {
+  height: 2rem;
+  width: 2rem;
+  border-radius: 50%;
+  object-fit: cover;
+  transition: transform 0.3s ease-in-out;
+}
+
+.logo:hover {
+  transform: rotate(360deg); /* Spin effect on hover */
+}
+
+/* Adding a subtle gradient overlay for text readability */
+.main-home::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5); /* Darken overlay */
+  z-index: 0;
+}
+
+/* For smaller screens, adjusting the font size */
+@media (max-width: 768px) {
+  .content-box > h1 {
+    font-size: 1.8rem; /* Further reduced for small screens */
+  }
+  .home-content {
+    padding: 15px;
+  }
+  .img-wrapper {
+    height: 50%; /* Further reduced for better alignment */
+    width: 90%; /* Ensure it fits well on small screens */
+  }
+  .logo {
+    height: 1.5rem; /* Smaller logo on small screens */
+    width: 1.5rem;
+  }
+}
