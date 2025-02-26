@@ -55,7 +55,8 @@ Then run the following commands.
 
 ### Clone the repo
    ```sh
-   git clone git@github.com:sd012gfhkhhvh/Slate.AI.git
+git clone https://github.com/HiteshShinde-web/HiteshShinde-web-Collaborative-White-Board.git
+
    ```
 #### Client
 
