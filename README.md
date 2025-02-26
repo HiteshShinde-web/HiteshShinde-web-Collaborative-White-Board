@@ -1,16 +1,8 @@
 
 
-<div align="center">
 
-![gdg](https://github.com/sd012gfhkhhvh/Slate.AI/blob/main/client/src/assets/slateAI-logo-dark.png)
+ 
 
-</div>
-
- <!-------------------------------------------------------------------------------------------------------------------------------------->
- <div align="center">
- <p>
-
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=sd012gfhkhhvh/Slate.AI&countColor=%23263759&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/sd012gfhkhhvh/Slate.AI)
