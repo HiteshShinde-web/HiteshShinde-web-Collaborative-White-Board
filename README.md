@@ -1,28 +1,6 @@
 
 
 
- 
-
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=sd012gfhkhhvh/Slate.AI&countColor=%23263759&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/sd012gfhkhhvh/Slate.AI)
-![GitHub Repo stars](https://img.shields.io/github/stars/sd012gfhkhhvh/Slate.AI)
-![GitHub contributors](https://img.shields.io/github/contributors/sd012gfhkhhvh/Slate.AI)
-![GitHub last commit](https://img.shields.io/github/last-commit/sd012gfhkhhvh/Slate.AI)
-![GitHub repo size](https://img.shields.io/github/repo-size/sd012gfhkhhvh/Slate.AI)
-![Github](https://img.shields.io/github/license/sd012gfhkhhvh/Slate.AI)
-![GitHub issues](https://img.shields.io/github/issues/sd012gfhkhhvh/Slate.AI)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/sd012gfhkhhvh/Slate.AI)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/sd012gfhkhhvh/Slate.AI)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/sd012gfhkhhvh/Slate.AI)
-
- </p>
- </div>
-
-<!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-
-
-
 ## About The Project
 
 Slate.AI is a real-time collaborative whiteboarding web application, allowing multiple users to collaboratively create art using a shared canvas. Built with the MERN stack and Socket.IO, Slate.AI provides a seamless and engaging collaborative drawing experience.
