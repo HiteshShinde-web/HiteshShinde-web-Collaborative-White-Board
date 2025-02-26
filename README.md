@@ -1,4 +1,4 @@
-# `The Curent version does not support mobiles Devices`
+
 
 <div align="center">
 
@@ -113,42 +113,3 @@ cd server
 npm run dev
 ```
 
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-1. Fork the Project
-2. Create your Feature Branch ( `git checkout -b feature/AmazingFeature` )
-3. Add your Changes ( `git add .` )
-4. Commit your Changes ( `git commit -m 'Add some AmazingFeature'` )
-5. Push to the Branch ( `git push origin feature/AmazingFeature` )
-6. Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Mail us at - sohamdas.nest@gmail.com
-
-## License
-[MIT License](LICENSE)
-
-**************************************************************
-<h2>⭐Give this Project a Star</h2>
-
-[![GitHub followers](https://img.shields.io/github/followers/sd012gfhkhhvh.svg?label=Follow%20@sd012gfhkhhvh&style=social)](https://github.com/sd012gfhkhhvh/)  [![Twitter Follow](https://img.shields.io/twitter/follow/Soham__Das_?style=social)](https://twitter.com/Soham__Das_)
-
-If you liked working on this project, do ⭐ and share this repository.
-
-🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
-
-© 2024 Soham Das
-
-## Contributors
-
-<a href="https://github.com/sd012gfhkhhvh/Slate.AI/contributors">
-  <img src="https://contrib.rocks/image?repo=sd012gfhkhhvh/Slate.AI" />
-</a>
-# HiteshShinde-web-Collaborative-White-Board
